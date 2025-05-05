@@ -7,3 +7,8 @@ node_modules/
 # Logs and junk files
 *.log
 .DS_Store
+
+# Dictionary data (large file)
+scripts/JMdict_e
+JMdict_e
+JMdict_e.*
