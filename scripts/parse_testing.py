@@ -49,7 +49,7 @@ output_file = open('scripts/output.txt', 'w', encoding='utf-8')
 #         if kanji.find('./keb') is not None: # if keb is missing
 #             output_file.write(kanji.find('./keb').text + '\n') # writes output to file
 
-input = "遊ぶ"
+input = "おきる"
 inputH = "たべる"
 
 # for elm in root.findall('./entry'):
@@ -80,29 +80,62 @@ meaning_output = ""
 found = False
 
 for elm in root.findall('./entry'):
+    kanjiFound = ""
+    hiraganaFound = ""
+
+    kanjiIndex = 0
+    hiraganaIndex = -1
+
     for kanji in elm.findall('./k_ele'):
-        keb = kanji.find('./keb')
-        if keb is not None:
-            if keb.text == input:
-                kanji_output = input
-                output_file.write("Kanji: " + kanji_output + "\n")
+        if kanji is not None:
+            keb = kanji.find('./keb')
+            if keb is not None:
+                kanjiFound = keb.text
+                kanjiIndex = kanjiIndex + 1
+                if kanjiFound == input:
+                        found = True
+                        break
 
-                reading = elm.find('./r_ele')
-                reb = reading.find('./reb')
-                if reb is not None:
-                    hiragana_output = reb.text
-                    output_file.write("hiragana: " + hiragana_output + "\n")
+    for hiragana in elm.findall('./r_ele'):
+        if hiragana is not None:
+            reb = hiragana.find('./reb')
+            if reb is not None:
+                hiraganaFound = reb.text
+                hiraganaIndex = hiraganaIndex + 1
+                if found and hiraganaIndex == kanjiIndex:
+                     break
+                if hiraganaFound == input:
+                        found = True
+                        break
 
-                meaning = elm.find('./sense')
-                for gloss in meaning.findall('./gloss'):
-                    if gloss is not None:
-                        meaning_output = gloss.text
-                        output_file.write("meaning: " + meaning_output + "\n")
 
-                found = True
-                break    
     if found:
-        break        
+        if kanjiIndex < hiraganaIndex:
+            kanjiFound = hiraganaFound
+
+        if kanjiIndex > hiraganaIndex:
+            kanjiIndex = -1
+            for kanji in elm.findall('./k_ele'):
+                if kanji is not None:
+                    keb = kanji.find('./keb')
+                    if keb is not None:
+                        kanjiIndex = kanjiIndex + 1
+                        if kanjiIndex == hiraganaIndex:
+                            kanjiFound = keb.text
+                            break
+
+        kanji_output = kanjiFound
+        hiragana_output = hiraganaFound
+        output_file.write("kanji: " + kanji_output + "\n")
+        output_file.write("Hiragana: " + hiragana_output + "\n")
+
+        meaning = elm.find('./sense')
+        for gloss in meaning.findall('./gloss'):
+            if gloss is not None:
+                meaning_output = gloss.text
+                output_file.write("meaning: " + meaning_output + "\n")
+
+        break       
 
 
 
