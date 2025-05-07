@@ -1,5 +1,0 @@
-kanji: 起きる
-Hiragana: おきる
-meaning: to get up
-meaning: to rise
-meaning: to blaze up (fire)
