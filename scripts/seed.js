@@ -1,13 +1,18 @@
+// Seed script to wipe and repopulate verbs collection
+// Usage: `node scripts/seed.js`
+
 const Verb = require('../src/models/verbs'); // Mongoose model
-const verbData = require('../src/data/verbs.json'); // JSON data
+const verbData = require('../data/verbs.json'); // JSON data
 
 const { connectMongo } = require('../src/utils/connectMongo');
 
 connectMongo()
     .then(() => {
-        Verb.deleteMany({})
+        // Remove all existing verb documents
+        Verb.deleteMany({}) 
             .then((result) => {
-                console.log(`deleted ${result.deletedCount} entries.`)
+                console.log(`deleted ${result.deletedCount} entries.`);
+                // Insert fresh data from JSON file
                 Verb.insertMany(verbData)
                     .then((result) => {
                         console.log(`MongoDB reseeded at ${new Date().toLocaleString()} - with ${result.length} verbs added.`);

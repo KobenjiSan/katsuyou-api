@@ -1,5 +1,12 @@
+// Controller for handling katsuyou (verb) API requests
+
 const Verb = require('../models/verbs'); // Loads the file that defines Mongoose model for verbs collection.
 
+/**
+ * Handles GET /api/katsuyou/verb/:word
+ * Checks if the word is valid Japanese
+ * Returns verb data from MongoDB or error response
+ */
 const getVerb = async (req, res) => {
     try{
         const regCheck = /^[\u3040-\u30FF\u4E00-\u9FFF\uFF66-\uFF9D]+$/;

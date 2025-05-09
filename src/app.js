@@ -1,11 +1,15 @@
+// Express app setup with routes and global error handling
+
 const express = require('express');
 const app = express();
 const morgan = require('morgan');
 
 const katsuyouRouter = require('./routes/katsuyou.routes');
 
-app.use(morgan('dev')); // logs incoming requests
+// logs incoming requests
+app.use(morgan('dev')); 
 
+// Mounts katsuyou-related API routes
 app.use('/api/katsuyou', katsuyouRouter);
 
 // Global error handler (fallback if something isnt caught properly)

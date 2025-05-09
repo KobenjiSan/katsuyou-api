@@ -1,5 +1,12 @@
+// Mongoose model for Japanese verbs
+
 const mongoose = require('mongoose');
 
+// Schema structure:
+// - hiragana: string
+// - kanji: string
+// - meaning: English definition
+// - type: verb type (godan, ichidan, irregular)
 const verbSchema = new mongoose.Schema({
     hiragana: { type: String, required: true },
     kanji: { type: String, required: true },

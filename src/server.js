@@ -1,3 +1,6 @@
+// Entry point for running server
+// Connects to MongoDB and starts listening for API requests
+
 const app = require('./app.js');
 const name = 'katsuyou-api';
 const port = process.env.PORT || 7825;

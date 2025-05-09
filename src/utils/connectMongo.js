@@ -1,3 +1,9 @@
+// Utility to connect to MongoDB using environment variables
+
+/**
+ * Connects to MongoDB using MONGO_URI from .env
+ * Logs success or exits on failure
+ */
 function connectMongo(){
     require('dotenv').config(); // imports dotenv library
     const mongoose = require('mongoose'); // imports mongoose to allow access to db
