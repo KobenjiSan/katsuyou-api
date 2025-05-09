@@ -1,0 +1,1089 @@
+[{
+  "_id": {
+    "$oid": "681bffe7135f963f724f5de5"
+  },
+  "hiragana": "たべる",
+  "kanji": "食べる",
+  "meaning": "to eat",
+  "type": "ichidan",
+  "exampleTemplate": "りんごを",
+  "exampleMeaning": "I [verb] an apple."
+},
+{
+  "_id": {
+    "$oid": "681bffe7135f963f724f5de6"
+  },
+  "hiragana": "のむ",
+  "kanji": "飲む",
+  "meaning": "to drink",
+  "type": "godan",
+  "exampleTemplate": "お茶を",
+  "exampleMeaning": "I [verb] tea."
+},
+{
+  "_id": {
+    "$oid": "681bffe7135f963f724f5de7"
+  },
+  "hiragana": "いく",
+  "kanji": "行く",
+  "meaning": "to go",
+  "type": "godan",
+  "exampleTemplate": "学校に",
+  "exampleMeaning": "I [verb] to school."
+},
+{
+  "_id": {
+    "$oid": "681bffe7135f963f724f5de8"
+  },
+  "hiragana": "くる",
+  "kanji": "来る",
+  "meaning": "to come",
+  "type": "irregular",
+  "exampleTemplate": "部屋に",
+  "exampleMeaning": "I [verb] into the room."
+},
+{
+  "_id": {
+    "$oid": "681bffe7135f963f724f5de9"
+  },
+  "hiragana": "する",
+  "kanji": "する",
+  "meaning": "to do",
+  "type": "irregular",
+  "exampleTemplate": "勉強を",
+  "exampleMeaning": "I [verb] my studies."
+},
+{
+  "_id": {
+    "$oid": "681bffe7135f963f724f5dea"
+  },
+  "hiragana": "みる",
+  "kanji": "見る",
+  "meaning": "to see",
+  "type": "ichidan",
+  "exampleTemplate": "映画を",
+  "exampleMeaning": "I [verb] a movie."
+},
+{
+  "_id": {
+    "$oid": "681bffe7135f963f724f5deb"
+  },
+  "hiragana": "きく",
+  "kanji": "聞く",
+  "meaning": "to listen",
+  "type": "godan",
+  "exampleTemplate": "音楽を",
+  "exampleMeaning": "I [verb] to music."
+},
+{
+  "_id": {
+    "$oid": "681bffe7135f963f724f5dec"
+  },
+  "hiragana": "はなす",
+  "kanji": "話す",
+  "meaning": "to speak",
+  "type": "godan",
+  "exampleTemplate": "日本語で",
+  "exampleMeaning": "I [verb] in Japanese."
+},
+{
+  "_id": {
+    "$oid": "681bffe7135f963f724f5ded"
+  },
+  "hiragana": "かく",
+  "kanji": "書く",
+  "meaning": "to write",
+  "type": "godan",
+  "exampleTemplate": "日記を",
+  "exampleMeaning": "I [verb] a journal."
+},
+{
+  "_id": {
+    "$oid": "681bffe7135f963f724f5dee"
+  },
+  "hiragana": "よむ",
+  "kanji": "読む",
+  "meaning": "to read",
+  "type": "godan",
+  "exampleTemplate": "本を",
+  "exampleMeaning": "I [verb] a book."
+},
+{
+  "_id": {
+    "$oid": "681bffe7135f963f724f5def"
+  },
+  "hiragana": "かう",
+  "kanji": "買う",
+  "meaning": "to buy",
+  "type": "godan",
+  "exampleTemplate": "おもちゃを",
+  "exampleMeaning": "I [verb] a toy."
+},
+{
+  "_id": {
+    "$oid": "681bffe7135f963f724f5df0"
+  },
+  "hiragana": "うる",
+  "kanji": "売る",
+  "meaning": "to sell",
+  "type": "godan",
+  "exampleTemplate": "野菜を",
+  "exampleMeaning": "I [verb] vegetables."
+},
+{
+  "_id": {
+    "$oid": "681bffe7135f963f724f5df1"
+  },
+  "hiragana": "あう",
+  "kanji": "会う",
+  "meaning": "to meet",
+  "type": "godan",
+  "exampleTemplate": "友達に",
+  "exampleMeaning": "I [verb] a friend."
+},
+{
+  "_id": {
+    "$oid": "681bffe7135f963f724f5df2"
+  },
+  "hiragana": "あそぶ",
+  "kanji": "遊ぶ",
+  "meaning": "to play",
+  "type": "godan",
+  "exampleTemplate": "公園で",
+  "exampleMeaning": "I [verb] at the park."
+},
+{
+  "_id": {
+    "$oid": "681bffe7135f963f724f5df3"
+  },
+  "hiragana": "まつ",
+  "kanji": "待つ",
+  "meaning": "to wait",
+  "type": "godan",
+  "exampleTemplate": "バスを",
+  "exampleMeaning": "I [verb] for the bus."
+},
+{
+  "_id": {
+    "$oid": "681bffe7135f963f724f5df4"
+  },
+  "hiragana": "ねる",
+  "kanji": "寝る",
+  "meaning": "to sleep",
+  "type": "ichidan",
+  "exampleTemplate": "早く",
+  "exampleMeaning": "I [verb] early."
+},
+{
+  "_id": {
+    "$oid": "681bffe7135f963f724f5df5"
+  },
+  "hiragana": "おきる",
+  "kanji": "起きる",
+  "meaning": "to wake up",
+  "type": "ichidan",
+  "exampleTemplate": "午前７時に",
+  "exampleMeaning": "I [verb] at 7 a.m."
+},
+{
+  "_id": {
+    "$oid": "681bffe7135f963f724f5df6"
+  },
+  "hiragana": "あるく",
+  "kanji": "歩く",
+  "meaning": "to walk",
+  "type": "godan",
+  "exampleTemplate": "町を",
+  "exampleMeaning": "I [verb] through town."
+},
+{
+  "_id": {
+    "$oid": "681bffe7135f963f724f5df7"
+  },
+  "hiragana": "はしる",
+  "kanji": "走る",
+  "meaning": "to run",
+  "type": "godan",
+  "exampleTemplate": "道を",
+  "exampleMeaning": "I [verb] down the road."
+},
+{
+  "_id": {
+    "$oid": "681bffe7135f963f724f5df8"
+  },
+  "hiragana": "すわる",
+  "kanji": "座る",
+  "meaning": "to sit",
+  "type": "godan",
+  "exampleTemplate": "ソファに",
+  "exampleMeaning": "I [verb] on the sofa."
+},
+{
+  "_id": {
+    "$oid": "681c007d135f963f724f5df9"
+  },
+  "hiragana": "でる",
+  "kanji": "出る",
+  "meaning": "to leave",
+  "type": "ichidan",
+  "exampleTemplate": "部屋を",
+  "exampleMeaning": "I [verb] the room."
+},
+{
+  "_id": {
+    "$oid": "681c007d135f963f724f5dfa"
+  },
+  "hiragana": "はいる",
+  "kanji": "入る",
+  "meaning": "to enter",
+  "type": "godan",
+  "exampleTemplate": "教室に",
+  "exampleMeaning": "I [verb] the classroom."
+},
+{
+  "_id": {
+    "$oid": "681c007d135f963f724f5dfb"
+  },
+  "hiragana": "しぬ",
+  "kanji": "死ぬ",
+  "meaning": "to die",
+  "type": "godan",
+  "exampleTemplate": "突然",
+  "exampleMeaning": "I [verb] suddenly."
+},
+{
+  "_id": {
+    "$oid": "681c007d135f963f724f5dfc"
+  },
+  "hiragana": "およぐ",
+  "kanji": "泳ぐ",
+  "meaning": "to swim",
+  "type": "godan",
+  "exampleTemplate": "プールで",
+  "exampleMeaning": "I [verb] in the pool."
+},
+{
+  "_id": {
+    "$oid": "681c007d135f963f724f5dfd"
+  },
+  "hiragana": "ぬぐ",
+  "kanji": "脱ぐ",
+  "meaning": "to take off",
+  "type": "godan",
+  "exampleTemplate": "靴を",
+  "exampleMeaning": "I [verb] my shoes."
+},
+{
+  "_id": {
+    "$oid": "681c007d135f963f724f5dfe"
+  },
+  "hiragana": "けす",
+  "kanji": "消す",
+  "meaning": "to turn off",
+  "type": "godan",
+  "exampleTemplate": "明かりを",
+  "exampleMeaning": "I [verb] the lights."
+},
+{
+  "_id": {
+    "$oid": "681c007d135f963f724f5dff"
+  },
+  "hiragana": "つける",
+  "kanji": "つける",
+  "meaning": "to turn on",
+  "type": "ichidan",
+  "exampleTemplate": "テレビを",
+  "exampleMeaning": "I [verb] the TV."
+},
+{
+  "_id": {
+    "$oid": "681c007d135f963f724f5e01"
+  },
+  "hiragana": "みせる",
+  "kanji": "見せる",
+  "meaning": "to show",
+  "type": "ichidan",
+  "exampleTemplate": "写真を",
+  "exampleMeaning": "I [verb] a photo."
+},
+{
+  "_id": {
+    "$oid": "681c007d135f963f724f5e02"
+  },
+  "hiragana": "なおす",
+  "kanji": "直す",
+  "meaning": "to fix",
+  "type": "godan",
+  "exampleTemplate": "時計を",
+  "exampleMeaning": "I [verb] the clock."
+},
+{
+  "_id": {
+    "$oid": "681c007d135f963f724f5e03"
+  },
+  "hiragana": "つたえる",
+  "kanji": "伝える",
+  "meaning": "to tell",
+  "type": "ichidan",
+  "exampleTemplate": "気持ちを",
+  "exampleMeaning": "I [verb] my feelings."
+},
+{
+  "_id": {
+    "$oid": "681c007d135f963f724f5e04"
+  },
+  "hiragana": "かりる",
+  "kanji": "借りる",
+  "meaning": "to borrow",
+  "type": "ichidan",
+  "exampleTemplate": "本を",
+  "exampleMeaning": "I [verb] a book."
+},
+{
+  "_id": {
+    "$oid": "681c007d135f963f724f5e05"
+  },
+  "hiragana": "かす",
+  "kanji": "貸す",
+  "meaning": "to lend",
+  "type": "godan",
+  "exampleTemplate": "お金を",
+  "exampleMeaning": "I [verb] some money."
+},
+{
+  "_id": {
+    "$oid": "681c007d135f963f724f5e06"
+  },
+  "hiragana": "おくる",
+  "kanji": "送る",
+  "meaning": "to send",
+  "type": "godan",
+  "exampleTemplate": "手紙を",
+  "exampleMeaning": "I [verb] a letter."
+},
+{
+  "_id": {
+    "$oid": "681c007d135f963f724f5e07"
+  },
+  "hiragana": "もらう",
+  "kanji": "もらう",
+  "meaning": "to receive",
+  "type": "godan",
+  "exampleTemplate": "プレゼントを",
+  "exampleMeaning": "I [verb] a present."
+},
+{
+  "_id": {
+    "$oid": "681c007d135f963f724f5e08"
+  },
+  "hiragana": "あげる",
+  "kanji": "あげる",
+  "meaning": "to give",
+  "type": "ichidan",
+  "exampleTemplate": "おもちゃを",
+  "exampleMeaning": "I [verb] a toy."
+},
+{
+  "_id": {
+    "$oid": "681c007d135f963f724f5e09"
+  },
+  "hiragana": "おぼえる",
+  "kanji": "覚える",
+  "meaning": "to memorize",
+  "type": "ichidan",
+  "exampleTemplate": "単語を",
+  "exampleMeaning": "I [verb] vocabulary words."
+},
+{
+  "_id": {
+    "$oid": "681c007d135f963f724f5e0a"
+  },
+  "hiragana": "わすれる",
+  "kanji": "忘れる",
+  "meaning": "to forget",
+  "type": "ichidan",
+  "exampleTemplate": "傘を",
+  "exampleMeaning": "I [verb] my umbrella."
+},
+{
+  "_id": {
+    "$oid": "681c007d135f963f724f5e0b"
+  },
+  "hiragana": "はらう",
+  "kanji": "払う",
+  "meaning": "to pay",
+  "type": "godan",
+  "exampleTemplate": "お金を",
+  "exampleMeaning": "I [verb] the money."
+},
+{
+  "_id": {
+    "$oid": "681c007d135f963f724f5e0c"
+  },
+  "hiragana": "ならう",
+  "kanji": "習う",
+  "meaning": "to learn",
+  "type": "godan",
+  "exampleTemplate": "日本語を",
+  "exampleMeaning": "I [verb] Japanese."
+},
+{
+  "_id": {
+    "$oid": "681c0182135f963f724f5e0d"
+  },
+  "hiragana": "まなぶ",
+  "kanji": "学ぶ",
+  "meaning": "to study",
+  "type": "godan",
+  "exampleTemplate": "大学で",
+  "exampleMeaning": "I [verb] at college."
+},
+{
+  "_id": {
+    "$oid": "681c0182135f963f724f5e0e"
+  },
+  "hiragana": "はたらく",
+  "kanji": "働く",
+  "meaning": "to work",
+  "type": "godan",
+  "exampleTemplate": "会社で",
+  "exampleMeaning": "I [verb] at a company."
+},
+{
+  "_id": {
+    "$oid": "681c0182135f963f724f5e0f"
+  },
+  "hiragana": "すむ",
+  "kanji": "住む",
+  "meaning": "to live",
+  "type": "godan",
+  "exampleTemplate": "東京に",
+  "exampleMeaning": "I [verb] in Tokyo."
+},
+{
+  "_id": {
+    "$oid": "681c0182135f963f724f5e10"
+  },
+  "hiragana": "つづける",
+  "kanji": "続ける",
+  "meaning": "to continue",
+  "type": "ichidan",
+  "exampleTemplate": "勉強を",
+  "exampleMeaning": "I [verb] studying."
+},
+{
+  "_id": {
+    "$oid": "681c0182135f963f724f5e11"
+  },
+  "hiragana": "やすむ",
+  "kanji": "休む",
+  "meaning": "to rest",
+  "type": "godan",
+  "exampleTemplate": "しばらく",
+  "exampleMeaning": "I [verb] for a while."
+},
+{
+  "_id": {
+    "$oid": "681c0182135f963f724f5e12"
+  },
+  "hiragana": "すわく",
+  "kanji": "掃く",
+  "meaning": "to sweep",
+  "type": "godan",
+  "exampleTemplate": "床を",
+  "exampleMeaning": "I [verb] the floor."
+},
+{
+  "_id": {
+    "$oid": "681c0182135f963f724f5e13"
+  },
+  "hiragana": "とる",
+  "kanji": "取る",
+  "meaning": "to take",
+  "type": "godan",
+  "exampleTemplate": "ノートを",
+  "exampleMeaning": "I [verb] notes."
+},
+{
+  "_id": {
+    "$oid": "681c0182135f963f724f5e14"
+  },
+  "hiragana": "みつける",
+  "kanji": "見つける",
+  "meaning": "to find",
+  "type": "ichidan",
+  "exampleTemplate": "答えを",
+  "exampleMeaning": "I [verb] the answer."
+},
+{
+  "_id": {
+    "$oid": "681c0182135f963f724f5e15"
+  },
+  "hiragana": "おもう",
+  "kanji": "思う",
+  "meaning": "to think",
+  "type": "godan",
+  "exampleTemplate": "本気で",
+  "exampleMeaning": "I [verb] seriously."
+},
+{
+  "_id": {
+    "$oid": "681c0182135f963f724f5e16"
+  },
+  "hiragana": "はこぶ",
+  "kanji": "運ぶ",
+  "meaning": "to carry",
+  "type": "godan",
+  "exampleTemplate": "荷物を",
+  "exampleMeaning": "I [verb] the luggage."
+},
+{
+  "_id": {
+    "$oid": "681c0182135f963f724f5e17"
+  },
+  "hiragana": "さがす",
+  "kanji": "探す",
+  "meaning": "to search",
+  "type": "godan",
+  "exampleTemplate": "鍵を",
+  "exampleMeaning": "I [verb] for my keys."
+},
+{
+  "_id": {
+    "$oid": "681c0182135f963f724f5e18"
+  },
+  "hiragana": "えらぶ",
+  "kanji": "選ぶ",
+  "meaning": "to choose",
+  "type": "godan",
+  "exampleTemplate": "答えを",
+  "exampleMeaning": "I [verb] the answer."
+},
+{
+  "_id": {
+    "$oid": "681c0182135f963f724f5e19"
+  },
+  "hiragana": "はじまる",
+  "kanji": "始まる",
+  "meaning": "to start",
+  "type": "godan",
+  "exampleTemplate": "授業が",
+  "exampleMeaning": "Class [verb] at 9."
+},
+{
+  "_id": {
+    "$oid": "681c0182135f963f724f5e1a"
+  },
+  "hiragana": "おわる",
+  "kanji": "終わる",
+  "meaning": "to finish",
+  "type": "godan",
+  "exampleTemplate": "仕事が",
+  "exampleMeaning": "Work [verb] at 5."
+},
+{
+  "_id": {
+    "$oid": "681c0182135f963f724f5e1b"
+  },
+  "hiragana": "つかれる",
+  "kanji": "疲れる",
+  "meaning": "to tire",
+  "type": "ichidan",
+  "exampleTemplate": "すぐに",
+  "exampleMeaning": "I [verb] quickly."
+},
+{
+  "_id": {
+    "$oid": "681c0182135f963f724f5e1c"
+  },
+  "hiragana": "のる",
+  "kanji": "乗る",
+  "meaning": "to board",
+  "type": "godan",
+  "exampleTemplate": "電車に",
+  "exampleMeaning": "I [verb] the train."
+},
+{
+  "_id": {
+    "$oid": "681c0182135f963f724f5e1d"
+  },
+  "hiragana": "おりる",
+  "kanji": "降りる",
+  "meaning": "to get off",
+  "type": "ichidan",
+  "exampleTemplate": "バスから",
+  "exampleMeaning": "I [verb] the bus."
+},
+{
+  "_id": {
+    "$oid": "681c0182135f963f724f5e1e"
+  },
+  "hiragana": "わらう",
+  "kanji": "笑う",
+  "meaning": "to laugh",
+  "type": "godan",
+  "exampleTemplate": "大声で",
+  "exampleMeaning": "I [verb] loudly."
+},
+{
+  "_id": {
+    "$oid": "681c0182135f963f724f5e1f"
+  },
+  "hiragana": "なく",
+  "kanji": "泣く",
+  "meaning": "to cry",
+  "type": "godan",
+  "exampleTemplate": "夜に",
+  "exampleMeaning": "I [verb] at night."
+},
+{
+  "_id": {
+    "$oid": "681c0182135f963f724f5e20"
+  },
+  "hiragana": "あやまる",
+  "kanji": "謝る",
+  "meaning": "to apologize",
+  "type": "godan",
+  "exampleTemplate": "友達に",
+  "exampleMeaning": "I [verb] to a friend."
+},
+{
+  "_id": {
+    "$oid": "681c0423135f963f724f5e21"
+  },
+  "hiragana": "うごかす",
+  "kanji": "動かす",
+  "meaning": "to move",
+  "type": "godan",
+  "exampleTemplate": "机を",
+  "exampleMeaning": "I [verb] the desk."
+},
+{
+  "_id": {
+    "$oid": "681c0423135f963f724f5e22"
+  },
+  "hiragana": "とぶ",
+  "kanji": "飛ぶ",
+  "meaning": "to fly",
+  "type": "godan",
+  "exampleTemplate": "紙飛行機を",
+  "exampleMeaning": "I [verb] the paper plane."
+},
+{
+  "_id": {
+    "$oid": "681c0423135f963f724f5e23"
+  },
+  "hiragana": "のぼる",
+  "kanji": "登る",
+  "meaning": "to climb",
+  "type": "godan",
+  "exampleTemplate": "階段を",
+  "exampleMeaning": "I [verb] the stairs."
+},
+{
+  "_id": {
+    "$oid": "681c0423135f963f724f5e24"
+  },
+  "hiragana": "みがく",
+  "kanji": "磨く",
+  "meaning": "to brush",
+  "type": "godan",
+  "exampleTemplate": "歯を",
+  "exampleMeaning": "I [verb] my teeth."
+},
+{
+  "_id": {
+    "$oid": "681c0423135f963f724f5e25"
+  },
+  "hiragana": "ふく",
+  "kanji": "拭く",
+  "meaning": "to wipe",
+  "type": "godan",
+  "exampleTemplate": "テーブルを",
+  "exampleMeaning": "I [verb] the table."
+},
+{
+  "_id": {
+    "$oid": "681c0423135f963f724f5e26"
+  },
+  "hiragana": "なおる",
+  "kanji": "治る",
+  "meaning": "to heal",
+  "type": "godan",
+  "exampleTemplate": "けがが",
+  "exampleMeaning": "I [verb] my injury."
+},
+{
+  "_id": {
+    "$oid": "681c0423135f963f724f5e27"
+  },
+  "hiragana": "なおす",
+  "kanji": "治す",
+  "meaning": "to cure",
+  "type": "godan",
+  "exampleTemplate": "風邪を",
+  "exampleMeaning": "I [verb] my cold."
+},
+{
+  "_id": {
+    "$oid": "681c0423135f963f724f5e28"
+  },
+  "hiragana": "かわかす",
+  "kanji": "乾かす",
+  "meaning": "to dry",
+  "type": "godan",
+  "exampleTemplate": "髪を",
+  "exampleMeaning": "I [verb] my hair."
+},
+{
+  "_id": {
+    "$oid": "681c0423135f963f724f5e29"
+  },
+  "hiragana": "ぬらす",
+  "kanji": "濡らす",
+  "meaning": "to wet",
+  "type": "godan",
+  "exampleTemplate": "服を",
+  "exampleMeaning": "I [verb] my clothes."
+},
+{
+  "_id": {
+    "$oid": "681c0423135f963f724f5e2a"
+  },
+  "hiragana": "あたためる",
+  "kanji": "温める",
+  "meaning": "to warm",
+  "type": "ichidan",
+  "exampleTemplate": "スープを",
+  "exampleMeaning": "I [verb] the soup."
+},
+{
+  "_id": {
+    "$oid": "681c0423135f963f724f5e2b"
+  },
+  "hiragana": "ひやす",
+  "kanji": "冷やす",
+  "meaning": "to chill",
+  "type": "godan",
+  "exampleTemplate": "飲み物を",
+  "exampleMeaning": "I [verb] the drink."
+},
+{
+  "_id": {
+    "$oid": "681c0423135f963f724f5e2c"
+  },
+  "hiragana": "つたえる",
+  "kanji": "伝える",
+  "meaning": "to convey",
+  "type": "ichidan",
+  "exampleTemplate": "メッセージを",
+  "exampleMeaning": "I [verb] the message."
+},
+{
+  "_id": {
+    "$oid": "681c0423135f963f724f5e2d"
+  },
+  "hiragana": "うむ",
+  "kanji": "産む",
+  "meaning": "to give birth",
+  "type": "godan",
+  "exampleTemplate": "子どもを",
+  "exampleMeaning": "I [verb] to a child."
+},
+{
+  "_id": {
+    "$oid": "681c0423135f963f724f5e2e"
+  },
+  "hiragana": "そだてる",
+  "kanji": "育てる",
+  "meaning": "to raise",
+  "type": "ichidan",
+  "exampleTemplate": "犬を",
+  "exampleMeaning": "I [verb] a dog."
+},
+{
+  "_id": {
+    "$oid": "681c0423135f963f724f5e2f"
+  },
+  "hiragana": "あける",
+  "kanji": "開ける",
+  "meaning": "to open",
+  "type": "ichidan",
+  "exampleTemplate": "窓を",
+  "exampleMeaning": "I [verb] the window."
+},
+{
+  "_id": {
+    "$oid": "681c0423135f963f724f5e30"
+  },
+  "hiragana": "しめる",
+  "kanji": "閉める",
+  "meaning": "to close",
+  "type": "ichidan",
+  "exampleTemplate": "ドアを",
+  "exampleMeaning": "I [verb] the door."
+},
+{
+  "_id": {
+    "$oid": "681c0423135f963f724f5e31"
+  },
+  "hiragana": "つける",
+  "kanji": "点ける",
+  "meaning": "to turn on",
+  "type": "ichidan",
+  "exampleTemplate": "電気を",
+  "exampleMeaning": "I [verb] the light."
+},
+{
+  "_id": {
+    "$oid": "681c0423135f963f724f5e32"
+  },
+  "hiragana": "けす",
+  "kanji": "消す",
+  "meaning": "to turn off",
+  "type": "godan",
+  "exampleTemplate": "テレビを",
+  "exampleMeaning": "I [verb] the TV."
+},
+{
+  "_id": {
+    "$oid": "681c0423135f963f724f5e33"
+  },
+  "hiragana": "ならす",
+  "kanji": "鳴らす",
+  "meaning": "to ring",
+  "type": "godan",
+  "exampleTemplate": "ベルを",
+  "exampleMeaning": "I [verb] the bell."
+},
+{
+  "_id": {
+    "$oid": "681c0423135f963f724f5e34"
+  },
+  "hiragana": "はこぶ",
+  "kanji": "運ぶ",
+  "meaning": "to carry",
+  "type": "godan",
+  "exampleTemplate": "箱を",
+  "exampleMeaning": "I [verb] the box."
+},
+{
+  "_id": {
+    "$oid": "681c04c4135f963f724f5e35"
+  },
+  "hiragana": "ひく",
+  "kanji": "引く",
+  "meaning": "to pull",
+  "type": "godan",
+  "exampleTemplate": "ドアを",
+  "exampleMeaning": "I [verb] the door."
+},
+{
+  "_id": {
+    "$oid": "681c04c4135f963f724f5e36"
+  },
+  "hiragana": "おす",
+  "kanji": "押す",
+  "meaning": "to push",
+  "type": "godan",
+  "exampleTemplate": "ボタンを",
+  "exampleMeaning": "I [verb] the button."
+},
+{
+  "_id": {
+    "$oid": "681c04c4135f963f724f5e37"
+  },
+  "hiragana": "おとす",
+  "kanji": "落とす",
+  "meaning": "to drop",
+  "type": "godan",
+  "exampleTemplate": "ペンを",
+  "exampleMeaning": "I [verb] the pen."
+},
+{
+  "_id": {
+    "$oid": "681c04c4135f963f724f5e38"
+  },
+  "hiragana": "ひろう",
+  "kanji": "拾う",
+  "meaning": "to pick up",
+  "type": "godan",
+  "exampleTemplate": "ゴミを",
+  "exampleMeaning": "I [verb] the trash."
+},
+{
+  "_id": {
+    "$oid": "681c04c4135f963f724f5e39"
+  },
+  "hiragana": "なげる",
+  "kanji": "投げる",
+  "meaning": "to throw",
+  "type": "ichidan",
+  "exampleTemplate": "ボールを",
+  "exampleMeaning": "I [verb] the ball."
+},
+{
+  "_id": {
+    "$oid": "681c04c4135f963f724f5e3a"
+  },
+  "hiragana": "たたく",
+  "kanji": "叩く",
+  "meaning": "to hit",
+  "type": "godan",
+  "exampleTemplate": "太鼓を",
+  "exampleMeaning": "I [verb] the drum."
+},
+{
+  "_id": {
+    "$oid": "681c04c4135f963f724f5e3b"
+  },
+  "hiragana": "ける",
+  "kanji": "蹴る",
+  "meaning": "to kick",
+  "type": "godan",
+  "exampleTemplate": "サッカーボールを",
+  "exampleMeaning": "I [verb] the soccer ball."
+},
+{
+  "_id": {
+    "$oid": "681c04c4135f963f724f5e3c"
+  },
+  "hiragana": "なでる",
+  "kanji": "撫でる",
+  "meaning": "to pet",
+  "type": "ichidan",
+  "exampleTemplate": "犬を",
+  "exampleMeaning": "I [verb] the dog."
+},
+{
+  "_id": {
+    "$oid": "681c04c4135f963f724f5e3d"
+  },
+  "hiragana": "さわる",
+  "kanji": "触る",
+  "meaning": "to touch",
+  "type": "godan",
+  "exampleTemplate": "画面を",
+  "exampleMeaning": "I [verb] the screen."
+},
+{
+  "_id": {
+    "$oid": "681c04c4135f963f724f5e3e"
+  },
+  "hiragana": "あらう",
+  "kanji": "洗う",
+  "meaning": "to wash",
+  "type": "godan",
+  "exampleTemplate": "皿を",
+  "exampleMeaning": "I [verb] the dishes."
+},
+{
+  "_id": {
+    "$oid": "681c04c4135f963f724f5e3f"
+  },
+  "hiragana": "ぬぐ",
+  "kanji": "脱ぐ",
+  "meaning": "to take off",
+  "type": "godan",
+  "exampleTemplate": "靴を",
+  "exampleMeaning": "I [verb] my shoes."
+},
+{
+  "_id": {
+    "$oid": "681c04c4135f963f724f5e40"
+  },
+  "hiragana": "きる",
+  "kanji": "着る",
+  "meaning": "to wear",
+  "type": "ichidan",
+  "exampleTemplate": "服を",
+  "exampleMeaning": "I [verb] clothes."
+},
+{
+  "_id": {
+    "$oid": "681c04c4135f963f724f5e41"
+  },
+  "hiragana": "はく",
+  "kanji": "履く",
+  "meaning": "to put on",
+  "type": "godan",
+  "exampleTemplate": "ズボンを",
+  "exampleMeaning": "I [verb] pants."
+},
+{
+  "_id": {
+    "$oid": "681c04c4135f963f724f5e42"
+  },
+  "hiragana": "かぶる",
+  "kanji": "被る",
+  "meaning": "to wear",
+  "type": "godan",
+  "exampleTemplate": "帽子を",
+  "exampleMeaning": "I [verb] a hat."
+},
+{
+  "_id": {
+    "$oid": "681c04c4135f963f724f5e43"
+  },
+  "hiragana": "つかまえる",
+  "kanji": "捕まえる",
+  "meaning": "to catch",
+  "type": "ichidan",
+  "exampleTemplate": "ボールを",
+  "exampleMeaning": "I [verb] the ball."
+},
+{
+  "_id": {
+    "$oid": "681c04c4135f963f724f5e44"
+  },
+  "hiragana": "はこぶ",
+  "kanji": "運ぶ",
+  "meaning": "to transport",
+  "type": "godan",
+  "exampleTemplate": "荷物を",
+  "exampleMeaning": "I [verb] the luggage."
+},
+{
+  "_id": {
+    "$oid": "681c04c4135f963f724f5e45"
+  },
+  "hiragana": "まもる",
+  "kanji": "守る",
+  "meaning": "to protect",
+  "type": "godan",
+  "exampleTemplate": "家族を",
+  "exampleMeaning": "I [verb] my family."
+},
+{
+  "_id": {
+    "$oid": "681c04c4135f963f724f5e46"
+  },
+  "hiragana": "ぬすむ",
+  "kanji": "盗む",
+  "meaning": "to steal",
+  "type": "godan",
+  "exampleTemplate": "お金を",
+  "exampleMeaning": "I [verb] the money."
+},
+{
+  "_id": {
+    "$oid": "681c04c4135f963f724f5e47"
+  },
+  "hiragana": "こわす",
+  "kanji": "壊す",
+  "meaning": "to break",
+  "type": "godan",
+  "exampleTemplate": "おもちゃを",
+  "exampleMeaning": "I [verb] the toy."
+},
+{
+  "_id": {
+    "$oid": "681c04c4135f963f724f5e48"
+  },
+  "hiragana": "なおす",
+  "kanji": "直す",
+  "meaning": "to repair",
+  "type": "godan",
+  "exampleTemplate": "時計を",
+  "exampleMeaning": "I [verb] the clock."
+}]
