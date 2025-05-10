@@ -75,13 +75,6 @@ Response:
 ```
 
 ---
-## To-Do / In Progress
-- Add request input validation
-- Add logging with morgan
-- Add unit tests with Jest + Supertest
-- Add rate limiting and sanitization for production use
-
----
 ## Related Project
 [Frontend Repo (KotoKatsuyou)](https://github.com/KobenjiSan/kotokatsuyou) — React-based UI that consumes this API
 
